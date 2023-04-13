@@ -1,0 +1,9 @@
+Describe the test results in your own words:
+Depending on which testing method you use for example unittest the result found give you a trace back to the function and the 
+expeacted result of the test you created. I like that veiw of seeing exact which function failed along with showing the expected 
+outcome. I think this would be very helpful during the development stage of esuring that test are completed and if errors occur 
+knowing exactly what test failed and the expectation would help decrease the time needed to make the corrections. 
+
+What do the test results mean?
+
+The test reults mean that the expexct outcome was not the same as the expected result. When completing the test it is similary performating that actions of comparsion to ensure that the results the programer was looking for are the actual result once the code has been executed. AssertionError line its is consider to be the results where it shows the codes output and the exected output for no the programer to go back and what the issue is and how to create a fix. 
